@@ -15,10 +15,10 @@ Durante o desenvolvimento deste projeto, aprendi e pratiquei:
 -  Tratamento de exceções;
 -  Modularização por funções.
 
-**Funcionalidades**
+**Funcionalidades utilizadas na aplicação:**
 
--  Cadastro de restaurantes
--  Listagem de restaurantes
--  Ativação/desativação de restaurantes
--  Validação de entradas
--  Menu interativo
+-  Cadastro de restaurantes;
+-  Listagem de restaurantes;
+-  Ativação/desativação de restaurantes;
+-  Validação de entradas;
+-  Menu interativo.
